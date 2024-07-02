@@ -14,9 +14,15 @@ Uma marca (a sua escolha) precisa identificar quais concorrentes estão utilizan
 ## Requisitos:
 
 **Consulta ao Google via API:** A aplicação deve realizar consultas ao Google usando uma API.
+
 **Backend em Golang:** O backend deve ser desenvolvido utilizando a linguagem Golang.
+
 **Banco de Dados MongoDB:** Utilizar MongoDB para armazenar os resultados das buscas.
+
 **Frontend:** O frontend pode ser desenvolvido com ou sem frameworks, conforme sua preferência.
+
 **Design do Frontend:** Não se preocupe com a aparência do frontend, um visual básico é suficiente, porém responsivo ganhará pontos
+
 **Deploy:** A aplicação deve estar hospedada em um servidor acessível e o código deve estar disponível em um repositório público no GitHub.
+
 **Apresentação:** Após a entrega do repositório, haverá uma sessão de revisão (Sprint Review) para demonstrar a funcionalidade entregue e em funcionamento.
